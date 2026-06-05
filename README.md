@@ -38,4 +38,4 @@ Windows OS
 This tool is intended strictly for legal, authorized cybercrime investigation and research purposes only. Unauthorized use is prohibited.
 
 📌 Project Status
-Built as a group project at GURUGRAM POLICE (2025). Presented at college level.
+Built as a group project at GURUGRAM POLICE (2025). Presented at GURUGRAM POLICE CYBER SECURITY SUMMER INTERNSHIP  (GPCSSI) 2025
